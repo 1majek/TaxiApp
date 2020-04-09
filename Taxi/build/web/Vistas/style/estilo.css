@@ -1,0 +1,34 @@
+.modal-backdrop {
+  z-index: -1;
+}
+
+.fondo{
+    /**background-color: #D6DDEB;**/
+    background: url(../img/bg2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+    color: #c8e6da;
+}
+
+.texto{
+    color: #c8e6da;
+    font-weight: bold;
+}
+
+.fondo2{
+    /**background-color: #D6DDEB;**/
+    background: url(../img/fondo2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+    color: #c8e6da;
+}
+
+.enlace{
+    color: #006e80;
+}
+
+.navbar-nav .nav-item:hover .nav-link{
+    color: #fefefe;
+}

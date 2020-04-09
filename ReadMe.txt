@@ -1,0 +1,2 @@
+Esto es una app que tiene funcionalidad de CRUD hecho con java, jsp, java script y bootstrap, actualmente se esta utilizando en la oficina de taxis cala dor en Mallorca que es donde estoy trabajando.
+tiene muchas funcionalidades y nos permite saber muchos datos. Y obviamente hecho por mi Steven Majek :P
